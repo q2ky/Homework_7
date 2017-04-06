@@ -1,0 +1,27 @@
+public class name : MonoBehaviour
+{
+public string name = "orest";
+public int age = 14;
+private float time = 15.0f;
+public bool Iunderstand = true;
+private string metod()
+{
+return name;
+}
+private int metod1()
+{
+return age;
+}
+private float metod2()
+{
+return time;
+}
+private bool metod3()
+{
+return true;
+}
+private void metod4()
+{
+
+}
+}
